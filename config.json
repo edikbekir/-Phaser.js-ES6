@@ -1,0 +1,89 @@
+{ "boom":{
+  "key":"boom",
+  "url":"img/boom.png"
+},
+  "boomtext":{
+    "key":"boomtext",
+    "url":"img/BoomText.png"
+  },
+  "bazooka":{
+  "key":"bazooka",
+  "url":"img/bazooka.png"
+},
+  "bang":{
+    "key":"bang",
+    "url":"img/bang.png"
+  },
+  "background": {
+    "key": "background",
+    "url": "img/background.jpg"
+  },
+  
+  "bullet": {
+    "key": "bullet",
+    "url": "img/bullet.png"
+  },
+  "bulletExtends": {
+    "key": "bulletBIG",
+    "url": "img/bulletBIG.png"
+  },
+  "_bomb": {
+    "key": "bomb",
+    "url": "img/bomb.png"
+  },
+  "invader": {
+  "key": "invader",
+  "url": "img/invader1.png"
+  },
+  "invader2": {
+    "key": "invader1",
+    "url": "img/invader2.png"
+  },
+  "ship": {
+    "key": "ship",
+    "url": "img/player.png"
+  },
+  "explode": {
+    "key": "explode",
+    "url": "img/explode.png"
+  },
+  "view": {
+    "key": "view",
+    "url": "src/View.js",
+    "level":1
+  },
+  "player": {
+    "key": "player",
+    "url": "src/Player.js"
+  },
+  "weapons": {
+    "key": "weapons",
+    "url": "src/Weapons.js"
+  },
+  "reviseCollisionHandler": {
+    "key": "reviseCollisionHandler",
+    "url": "utils/ReviseCollisionHandler.js",
+    "scoreBullets":1,
+    "level":1
+  },
+  "Aliens": {
+    "key": "Aliens",
+    "url": "src/Aliens.js"
+  },
+  "Constants": {
+    "key": "constants",
+    "url": "utils/Constants.js"
+  },
+  "Variables": {
+    "key": "variables",
+    "url": "utils/Variables.js"
+  },
+  "help":{
+    "key":"help",
+    "url":"utils/Help.js"
+  },
+  "enemy":{
+    "key":"enemy",
+    "url":"img/enemy-bullet.png"
+  }
+}
